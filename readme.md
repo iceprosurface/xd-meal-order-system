@@ -7,7 +7,7 @@
 ### 如何使用
 
 #### chrome 网上应用商店下载
-1. 打开[链接](https://chrome.google.com/webstore/detail/%E5%BF%83%E5%8A%A8%E9%80%89%E9%A5%AD%E7%B3%BB%E7%BB%9F/leodlgjjokinhncnmcfhpcfjpmjkbolc)
+1. 打开<a href="https://chrome.google.com/webstore/detail/%E5%BF%83%E5%8A%A8%E9%80%89%E9%A5%AD%E7%B3%BB%E7%BB%9F/leodlgjjokinhncnmcfhpcfjpmjkbolc" target="_blank">[链接]</a>
 2. 点击 “添加至 chrome”
 
 #### 下载 crx 包安装
